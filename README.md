@@ -26,7 +26,7 @@ First, register the controller with [StimulusJS](https://stimulusjs.org):
 ```Javascript
 // application.js
 import { Application } from 'stimulus';
-import { StickyTableHeader } from 'stimulus-sticky-table-header';
+import StickyTableHeader from 'stimulus-sticky-table-header';
 
 const application = Application.start();
 application.register("sticky-table-header", StickyTableHeader);
