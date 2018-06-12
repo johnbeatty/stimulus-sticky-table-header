@@ -2,8 +2,25 @@
   "name": "stimulus-sticky-table-header",
   "version": "0.1.0",
   "description": "Sticky Table Header Controller Using Stimulus.js",
+  "keywords": [
+    "stimulus",
+    "controller",
+    "sticky",
+    "table",
+    "header"
+  ],
   "main": "dist/stimulus-sticky-table-header.min.js",
   "source": "src/stimulus-sticky-table-header.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/johnbeatty/stimulus-sticky-table-header.git"
+  },
+  "author": "John Beatty",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/johnbeatty/stimulus-sticky-table-header/issues"
+  },
+  "homepage": "https://github.com/johnbeatty/stimulus-sticky-table-header#readme",
   "babel": {
     "plugins": [
       "transform-class-properties",
@@ -41,22 +58,5 @@
     "webpack": "^4.8.1",
     "webpack-cli": "^2.1.3",
     "webpack-dev-middleware": "^3.1.3"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/johnbeatty/stimulus-sticky-table-header.git"
-  },
-  "keywords": [
-    "stimulus",
-    "controller",
-    "sticky",
-    "table",
-    "header"
-  ],
-  "author": "John Beatty",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/johnbeatty/stimulus-sticky-table-header/issues"
-  },
-  "homepage": "https://github.com/johnbeatty/stimulus-sticky-table-header#readme"
+  }
 }
