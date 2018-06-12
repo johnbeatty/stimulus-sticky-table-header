@@ -1,6 +1,6 @@
 {
   "name": "stimulus-sticky-table-header",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Sticky Table Header Controller Using Stimulus.js",
   "keywords": [
     "stimulus",
